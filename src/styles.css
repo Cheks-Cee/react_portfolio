@@ -1,0 +1,21 @@
+.fPage{
+    /* background-image: linear-gradient(to right, rgb(41, 38, 38), rgb(165, 165, 154)),Url('https://res.cloudinary.com/helencee/image/upload/v1575890818/Images_for_my_website/ipad-iphone-5-macbook-air-and-apple-magic-mouse-on-a-desk-with-a-cup-GHRG5W_pbg1r1.jpg'); */
+    background-image: linear-gradient(to right, rgba(10, 10, 10, 0.5), rgba(145, 191, 235, 0.3)),Url('https://res.cloudinary.com/helencee/image/upload/v1575890818/Images_for_my_website/ipad-iphone-5-macbook-air-and-apple-magic-mouse-on-a-desk-with-a-cup-GHRG5W_pbg1r1.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 0 0 0.5rem black;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
